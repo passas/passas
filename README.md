@@ -101,3 +101,10 @@
 
 ```
 </details>
+
+<details>
+  <summary>Click me</summary>
+  
+  ![Poderosa](poderosa.png "Poderosa")
+  
+</details>
