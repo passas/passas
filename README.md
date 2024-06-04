@@ -1,4 +1,7 @@
-```
+<details>
+  <summary>Click me</summary>
+
+  ```
                 nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHn.
              .MS?MMMMMMMMMMMMMMMMMM?MM~MMMMMMMMMSHMMMMMMMM(?"~\
              MMMMMH?MMMMMMMX*MM?MMX%MM/MMMMMM"HMMMMMMMMMMMMMMH
@@ -97,3 +100,4 @@
                     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ```
+</details>
