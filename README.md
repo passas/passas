@@ -1,4 +1,4 @@
 <!--Navigation bar-->
-[![](images/nav/megahits_.png)](https://megahits.sapo.pt/ouviremissao/)<!--MegaHits-->[![](images/nav/instagram_.png)](https://www.instagram.com/opassas/)<!--Instagram-->[![](images/nav/youtube_.png)](https://www.youtube.com/watch?v=xkaj3WU23wg)<!--YouTube-->
+[![](images/nav/2024_sep_26/megahits.png)](https://megahits.sapo.pt/ouviremissao/)<!--MegaHits-->[![](images/nav/2024_sep_26/spotify.png)](https://open.spotify.com/playlist/6Uq0Gh80nsu2LYmYsorOto?si=7fsDRvZjQ4CBwgTlzIJnSw)<!--Spotify-->![](images/nav/2024_sep_26/manager.png)<!--Manager-->
 
 > *One day I'll right you a Book, or 7.*
