@@ -1,4 +1,4 @@
-<img src="images/github1-small.png" width="32">Welcome to my GitHub account profile. This is my homepage.
+<img src="images/github1-small.png" width="42">Welcome to my GitHub account profile. This is my homepage.
 
 <hr>
 
