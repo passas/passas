@@ -1,5 +1,4 @@
-![](images/github1-small.png)
-Welcome to my GitHub account profile. This is my homepage.
+<img src="images/github1-small.png" width="50">Welcome to my GitHub account profile. This is my homepage.
 
 <hr>
 
