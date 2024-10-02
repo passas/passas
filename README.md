@@ -1,3 +1,4 @@
+![](images/github1-small.png)
 Welcome to my GitHub account profile. This is my homepage.
 
 <hr>
