@@ -1,4 +1,5 @@
 Welcome to my GitHub account profile. This is my homepage.
+
 <hr>
 
 # Terms & Conditions
@@ -47,3 +48,6 @@ Welcome to my GitHub account profile. This is my homepage.
 <br>
 
 > *One day I'll right you a Book, or 7.*
+<br>
+
+[![](images/megahits.png)](https://megahits.sapo.pt/ouviremissao/)<!--MegaHits-->![](images/manager5.png)<!--Manager-->
