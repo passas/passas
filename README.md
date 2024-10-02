@@ -16,7 +16,6 @@
       <br>
       <!--1.2-->
       <li>You have to understand that this is a differnt kind of social network;</li>
-      <br>
         <ol>
           <!--1.2.a-->
           <li>I may have you blocked in another social media platform, due the following reason: I don't like you.</li>
