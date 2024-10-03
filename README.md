@@ -45,7 +45,6 @@
 </ol>
   
 <hr>
-<br>
 
 > *One day I'll right you a Book, or 7.*
 <!--<br>-->
