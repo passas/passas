@@ -12,7 +12,7 @@
   <br>
     <ol>
       <!--1.1-->
-      <li>I'll block a user if, from my newbie experience, I'll permit any sort of unintended mess on one of the public repositories that I display with my account;</li>
+      <li>I'll block a user if, from my newbie experience, I'll permit any sort of unintended mess on one of the public repositories that I display in my account;</li>
       <br>
       <!--1.2-->
       <li>You have to understand that this is a differnt kind of social network;</li>
