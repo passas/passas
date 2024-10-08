@@ -19,7 +19,7 @@
       <br>
         <ol>
           <!--1.2.a-->
-          <li>I may have you blocked in another social media platform. This is due two main reasons: (1) I don't like you, and (2) you lack of personality in the moment where you came to mess around with me.</li>
+          <li>I may have you blocked in another social media platform. This is due two main reasons: (1) I don't like you, and (2) you lack of personality from the moment where you intended to cross my path.</li>
           <br>
         </ol>
     </ol>
