@@ -46,7 +46,7 @@
   
 <hr>
 
-> *One day I'll right you a Book, or 7. Or maybe you'll find me teaching in some top-notch school, or maybe at one of my own. I also may start a companny, or lead the CEO roll at some good ass fine one. Or just pick the trash as a janitor of some form. Idc, my integrity will come with me, Always. I'm a Slytherin.*
+> *One day I'll write you a Book, or 7. Or maybe you'll find me teaching in some top-notch school, or maybe at one of my own. I also may start a companny, or lead the CEO roll at some good ass fine one. Or just pick the trash as a janitor of some form. Idc, my integrity will come with me, Always. I'm a Slytherin.*
 <!--<br>-->
 
 <!--[![](images/megahits.png)](https://megahits.sapo.pt/ouviremissao/)--><!--MegaHits--><!--![](images/manager5.png)--><!--Manager-->
