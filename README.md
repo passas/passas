@@ -38,7 +38,7 @@
   <br>
     <ol>
       <!--3.1-->
-      <li>Some times, the practices aren't even correct.</li>
+      <li>Sometimes, the practices aren't even correct.</li>
       <br>
     </ol>
 <!--End of terms & conditions.-->
