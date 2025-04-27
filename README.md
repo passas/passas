@@ -2,52 +2,18 @@
 
 <hr>
 
-# Terms & Conditions
+
+My name is Sérgio, with Costa as my sirname. However, I got two other names that my close circle call's me, Miguel, and Passinhas. The last is were my nickname is from.
 <br>
+<br>
+I'm currently on my twenties, were I'm trying to figure myself out.
+<br>
+<br>
+I like to express myself throughout my code or even how I engineer it.
+<br>
+<br>
+My goal stands on maturing towards a person who knows its boundaries and limitations.
 
-<ol>
-<!--Start of terms & conditions.-->
-  <!--1-->
-  <li>I will not block any user whatsoever;</li>
-  <br>
-    <ol>
-      <!--1.1-->
-      <li>I'll block a user if, from my newbie experience, I'll permit any sort of unintended mess on one of the public repositories that I display in my account;</li>
-      <br>
-      <!--1.2-->
-      <li>You have to understand that this is a differnt kind of social network.</li>
-      <br>
-        <ol>
-          <!--1.2.a-->
-          <li>I may have you blocked in another social media platform. This is due two main reasons: (1) I don't like you, and (2) you lack of personality from the moment where you intended to cross my path.</li>
-          <br>
-        </ol>
-    </ol>
-
-  <!--2-->
-  <li>We may delete any public repository at any time;</li>
-  <br>
-    <ol>
-      <!--2.1-->
-      <li>We encourage you to download the repository, or/and keep up with it as soon as possible.</li>
-      <br>
-    </ol>
-
-  <!--3-->
-  <li>Any state inside a repository (code or other forms) aren't intended to be the best practices.</li>
-  <br>
-    <ol>
-      <!--3.1-->
-      <li>Sometimes, the practices aren't even correct.</li>
-      <br>
-    </ol>
-<!--End of terms & conditions.-->
-</ol>
-  
 <hr>
 
-> *One day I'll write you a Book, or 7. Or maybe you'll find me teaching in some top-notch school, or maybe at one of my own. I also may start a companny, or lead the CEO role at some good ass fine one. Or just pick the trash as a janitor of some form. Idc, my integrity will come with me, Always. I'm a Slytherin.*
-<!--<br>-->
-
-<!--[![](images/megahits.png)](https://megahits.sapo.pt/ouviremissao/)--><!--MegaHits--><!--![](images/manager5.png)--><!--Manager-->
-<!--[![](images/Luisa-Sonza-838.png)](https://open.spotify.com/playlist/6sv6dTm1uMjDC0aexSU4Oe?si=c05253dabccb48bb)--><!--Luisa Sonza-->
+> *A moderação é só a forma de como alguém pode tirar mais partido do que nós. O compromisso é feito sempre à partida, nunca é gerido a meio, muito menos à chegada.*
