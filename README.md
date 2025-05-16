@@ -15,4 +15,4 @@ My goal stands on maturing towards a person who knows its boundaries and limitat
 <br>
 <hr>
 
-> *A moderação é só a forma de como alguém pode tirar mais partido do que nós. O compromisso é feito sempre à partida, nunca é gerido a meio, muito menos à chegada.*
+> *Wishing's Goku but behave like Vegeta.*
