@@ -4,7 +4,7 @@
     width="24"
     height="24"
     alt="Guy Fawkes Mask, Anonymous Mask Logo"></h3>
-  <p>I'm a software enthusiast, learning how to make things run on steel and semiconductors, leveraging firmware and operating systems.</p>
+  <p>I'm a software enthusiast, learning on how to make things run on steel and semiconductors, leveraging firmware and operating systems.</p>
 </div>
 <div>
   <h3>Current Intent <img
