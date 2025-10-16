@@ -28,8 +28,8 @@
     <i>
       Feeling nostalgic <img
       src="https://raw.githubusercontent.com/passas/passas/refs/heads/main/assets/favicon/nostalgic/coin-favicon-64x64.ico"
-      width="27"
-      height="27"
+      width="32"
+      height="32"
       alt="Nintendo, Yoshi coin.">
     </i>
   </p>
