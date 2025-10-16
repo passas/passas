@@ -19,8 +19,10 @@
   <p>I'm currently exploring and manage to get my software running on linux-based operating systems, currently exploring Ubuntu distribution.</p>
   </div>
 </div>
+
 <br>
 <br>
+
 <div>
   <p>
     <i>
